@@ -1,2 +1,2 @@
 # Projeto-calculadora-IMC-JavaScript
- calculadora de IMC usando JavaScript
+Primeiro "projeto" criado fora do curso de JS
